@@ -6,7 +6,10 @@
   <h3 align="center">Refresh</h3>
   <p align="center">
     Simple and easy-to-use flashcard application<br><br>
-      <img src="https://forthebadge.com/images/badges/built-for-android.svg" />
+    <img src="https://forthebadge.com/images/badges/built-for-android.svg" /><br><br>
+    <img src="static/layouts.png" width="33%" />
+    <img src="static/cards.png" width="33%" />
+    <img src="static/routines.png" width="33%" />
   </p>
   <h3>Features</h3>
   <ul>
